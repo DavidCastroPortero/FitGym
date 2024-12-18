@@ -1,0 +1,40 @@
+python manage.py tailwind start -- Activar tailwind
+python manage.py runserver -- Arrancar servidor
+.\venv\Scripts\activate -- Activar el entorno virtual
+python manage.py migrate -- Migrar BBDD
+python manage.py makemigrations -- Hacer migraciones BBDD
+python manage.py createsuperuser -- Crear admin
+python manage.py startapp FitGym -- Crear aplicación Django
+
+pip install django-tailwind -- Instalar django-tailwind
+pip install django-tailwind[reload] -- Instalar django-tailwind para la última versión
+python manage.py tailwind install -- Instalar tailwind para el proyecto de python
+python manage.py tailwind start -- Iniciar tailwind
+
+coverage run --source='.' manage.py test -- Correr los tests
+coverage report -- Genera un reporte de la cobertura del código
+coverage html -- Genera un html con el reporte de la cobertura del código
+
+python manage.py inspectdb > esquema.sql -- Transforma el modelo de datos a .sql 
+
+python -m pip install Pillow  -- Instalar Pillow, una librería de Python para manejar imágenes.
+pip install pymysql  -- Instalar PyMySQL, un conector para usar bases de datos MySQL con Django.
+pip install  -- Instalar las dependencias listadas en el archivo requirements.txt.
+python -m venv venv  -- Crear un entorno virtual llamado 'venv' en el proyecto.
+pip install Pillow  -- Asegurar que Pillow está instalado en el entorno virtual.
+pip3 install Django==3.2.8  -- Instalar Django versión 3.2.8 específicamente.
+pip install urllib3==1.26.16  -- Instalar urllib3 versión 1.26.16, utilizada para manejar solicitudes HTTP.
+npx tailwindcss -o output.css --minify  -- Compilar Tailwind CSS y minificar el archivo generado.
+pip install mysql-connector-python  -- Instalar el conector oficial de MySQL para Python.
+pip install autopip8  -- Instalar AutoPEP8, una herramienta para formatear código Python según PEP 8.
+pip install django  -- Instalar Django en su versión más reciente.
+pip install PyMySQL  -- Instalar PyMySQL como alternativa al conector oficial.
+pip install django-tailwind  -- Instalar django-tailwind para integrar Tailwind CSS con Django.
+pip install django_browser_reload  -- Instalar django_browser_reload para recargar automáticamente el navegador al hacer cambios en el código.
+pip install coverage -- Instalar coverage para los tests
+
+Entrenamiento de Espalda -- Entrenamiento de ejemplo
+Este entrenamiento está diseñado para trabajar de manera integral los músculos de la espalda, enfocándose en la amplitud y el grosor de la misma. Con una combinación de ejercicios que activan tanto los dorsales, los romboides y el trapecio, así como los músculos de la parte baja de la espalda, este entrenamiento es ideal para fortalecer y mejorar la postura, además de desarrollar una espalda más ancha y fuerte.
+
+Face Pull -- Ejercicio de ejemplo
+El face pull es un ejercicio que trabaja los músculos de la parte superior de la espalda, especialmente los trapecios, los deltoides posteriores y los romboides. Se realiza usando una cuerda en una máquina de polea alta. De pie frente a la máquina, tira de la cuerda hacia tu cara, manteniendo los codos elevados y alineados con los hombros.
